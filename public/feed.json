@@ -6,13 +6,13 @@
         "channelArn": "arn:aws:ivs:us-west-2:XXXXXXXXXXXX:channel/XXXXXXXXXXXX",
         "health": "HEALTHY",
         "playbackUrl": "https://d6a7ca7bd195.us-east-1.playback.live-video.net/api/video/v1/us-east-1.001677616360.channel.appaifmdUHuz.m3u8",
-        "startTime": "2021-11-24T17:49:12.527Z",
+        "startTime": "2022-06-08T15:49:12.527Z",
         "state": "LIVE",
         "viewerCount": 1
       },
       "metadata": {
         "streamTitle": "Vishal's livestream from Naperville, IL",
-        "userAvatar": "https://d39ii5l128t5ul.cloudfront.net/assets/animals_square/hedgehog.png",
+        "userAvatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aum_Om_black.svg/1200px-Aum_Om_black.svg.png",
         "userName": "Vishal Narasimhan",
         "userColors": {
           "primary": "#3E9963",
